@@ -1,0 +1,56 @@
+
+
+
+
+
+.main_container {
+        
+    background-color:rgba(0,0,0, 0.1)    
+}
+
+
+
+
+
+
+
+
+
+.main_table {
+
+background-color:rgba(0,0,0, 0.6)
+ 
+
+}
+.main_table .country{
+        font-weight: bold;
+        font-style: 23;
+    }
+    
+    .main_table .table_info{
+        font-weight: bold;
+    }  
+
+.main_table .confirmed {
+    color:green;
+
+    }
+
+    .main_table  .infected {
+        
+        color:green
+    }
+
+    .main_table .deaths {
+        color:red;
+
+    }
+
+    .main_table .recovered {
+        color:blue;
+    }
+
+
+    .world_data_info :focus {
+      background-color:grey ;
+    }

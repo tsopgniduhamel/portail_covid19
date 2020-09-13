@@ -1,0 +1,580 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"Project-Id-Version: Gridzine\n"
+"POT-Creation-Date: 2018-07-04 17:57+0545\n"
+"PO-Revision-Date: 2018-07-04 17:57+0545\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.0.1\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-Flags-xgettext: --add-comments=translators:\n"
+"X-Poedit-WPHeader: style.css\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;esc_attr__;"
+"esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c;_n_noop:1,2;"
+"_nx_noop:3c,1,2;__ngettext_noop:1,2\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.js\n"
+
+#: 404.php:17
+msgid "Oops! That page can&rsquo;t be found."
+msgstr ""
+
+#: 404.php:21
+msgid ""
+"It looks like nothing was found at this location. Maybe try one of the links "
+"below or a search?"
+msgstr ""
+
+#: 404.php:30
+msgid "Most Used Categories"
+msgstr ""
+
+#. translators: %1$s: smiley
+#: 404.php:47
+#, php-format
+msgid "Try looking in the monthly archives. %1$s"
+msgstr ""
+
+#. translators: 1: title.
+#: comments.php:34
+#, php-format
+msgid "One thought on &ldquo;%1$s&rdquo;"
+msgstr ""
+
+#. translators: 1: comment count number, 2: title.
+#: comments.php:40
+#, php-format
+msgctxt "comments title"
+msgid "%1$s thought on &ldquo;%2$s&rdquo;"
+msgid_plural "%1$s thoughts on &ldquo;%2$s&rdquo;"
+msgstr[0] ""
+msgstr[1] ""
+
+#: comments.php:63
+msgid "Comments are closed."
+msgstr ""
+
+#: footer-layouts/footer-1.php:44 footer-layouts/footer-2.php:66
+#: footer-layouts/footer-3.php:66 footer-layouts/footer-4.php:60
+msgid "https://wordpress.org/"
+msgstr ""
+
+#. translators: %s: CMS name, i.e. WordPress.
+#: footer-layouts/footer-1.php:46 footer-layouts/footer-2.php:68
+#: footer-layouts/footer-3.php:68 footer-layouts/footer-4.php:62
+#, php-format
+msgid "Proudly powered by %s"
+msgstr ""
+
+#. translators: 1: Theme name, 2: Theme author.
+#: footer-layouts/footer-2.php:73 footer-layouts/footer-3.php:73
+#: footer-layouts/footer-4.php:67 inc/hooks.php:49
+#, php-format
+msgid "Theme: %1$s by %2$s"
+msgstr ""
+
+#: functions.php:50
+msgid "Top left"
+msgstr ""
+
+#: functions.php:51
+msgid "Middle Center"
+msgstr ""
+
+#: functions.php:52
+msgid "Footer Righr"
+msgstr ""
+
+#: functions.php:110
+msgid "Sidebar"
+msgstr ""
+
+#: functions.php:112 functions.php:130 functions.php:139 functions.php:148
+#: functions.php:157
+msgid "Add widgets here."
+msgstr ""
+
+#: functions.php:119
+msgid "Below Menu"
+msgstr ""
+
+#: functions.php:121
+msgid "Add Slider Widget Here."
+msgstr ""
+
+#: functions.php:128
+msgid "Above Footer"
+msgstr ""
+
+#: functions.php:137 inc/footer-options.php:37
+msgid "Footer One"
+msgstr ""
+
+#: functions.php:146 inc/footer-options.php:38
+msgid "Footer Two"
+msgstr ""
+
+#: functions.php:155 inc/footer-options.php:39
+msgid "Footer Three"
+msgstr ""
+
+#. translators: If there are characters in your language that are not supported by Lato, translate this to 'off'. Do not translate into your own language.
+#: functions.php:182
+msgctxt "Roboto font: on or off"
+msgid "on"
+msgstr ""
+
+#. translators: If there are characters in your language that are not supported by Playfair Display, translate this to 'off'. Do not translate into your own language.
+#: functions.php:187
+msgctxt "Playfair Display font: on or off"
+msgid "on"
+msgstr ""
+
+#: inc/footer-options.php:7 inc/footer-options.php:8
+msgid "Footer Layout Options"
+msgstr ""
+
+#: inc/footer-options.php:17
+msgid "Select from 4 Different Footer Layout"
+msgstr ""
+
+#: inc/footer-options.php:18
+msgid "Select Footer and Check Result Live in Customizer"
+msgstr ""
+
+#: inc/footer-options.php:31
+msgid "Select Footer Layout"
+msgstr ""
+
+#: inc/footer-options.php:40
+msgid "Footer Four"
+msgstr ""
+
+#: inc/footer-options.php:53
+msgid "Enable/Disable Footer Social Links"
+msgstr ""
+
+#: inc/footer-options.php:68
+msgid "Branding Removal Text"
+msgstr ""
+
+#: inc/header-options.php:7 inc/header-options.php:8
+msgid "Header Layout Options"
+msgstr ""
+
+#: inc/header-options.php:17
+msgid "Select from 5 Different Layout"
+msgstr ""
+
+#: inc/header-options.php:18
+msgid "Select Header and Check Result Live in Customizer"
+msgstr ""
+
+#: inc/header-options.php:31
+msgid "Select Header Layout"
+msgstr ""
+
+#: inc/header-options.php:37
+msgid "Header One"
+msgstr ""
+
+#: inc/header-options.php:38
+msgid "Header Two"
+msgstr ""
+
+#: inc/header-options.php:39
+msgid "Header Three"
+msgstr ""
+
+#: inc/header-options.php:40
+msgid "Header Four"
+msgstr ""
+
+#: inc/header-options.php:41
+msgid "Header Five"
+msgstr ""
+
+#: inc/header-options.php:53
+msgid "Enable/Disable Header Social Links"
+msgstr ""
+
+#: inc/header-options.php:68
+msgid "Enable Disable Search at Header"
+msgstr ""
+
+#: inc/header-options.php:83
+msgid "Header Three Email Addresss"
+msgstr ""
+
+#: inc/header-options.php:98
+msgid "Header Three Phone Number"
+msgstr ""
+
+#: inc/other-options.php:6 inc/other-options.php:7
+msgid "Advanced Options"
+msgstr ""
+
+#: inc/other-options.php:15
+msgid "Advanced Options "
+msgstr ""
+
+#: inc/other-options.php:16
+msgid "Enable/Disable Preloader "
+msgstr ""
+
+#: inc/other-options.php:27
+msgid "Enable Disable Pre Loader"
+msgstr ""
+
+#: inc/other-options.php:41
+msgid "Enable Disable Related Post"
+msgstr ""
+
+#: inc/other-options.php:55
+msgid "Enable Disable Back To Top"
+msgstr ""
+
+#: inc/sanitize.php:203
+msgid "Select"
+msgstr ""
+
+#: inc/social-options.php:7 inc/social-options.php:8
+msgid "Social Link Options"
+msgstr ""
+
+#: inc/social-options.php:17
+msgid "Social Media Links"
+msgstr ""
+
+#: inc/social-options.php:18
+msgid "Input Social Media Links "
+msgstr ""
+
+#: inc/social-options.php:33
+msgid "Paste Facebook Link Here"
+msgstr ""
+
+#: inc/social-options.php:49
+msgid "Paste Twitter Link Here"
+msgstr ""
+
+#: inc/social-options.php:65
+msgid "Paste GoogleLink Here"
+msgstr ""
+
+#: inc/social-options.php:81
+msgid "Paste Pinterest Link Here"
+msgstr ""
+
+#: inc/social-options.php:97
+msgid "Paste Instagram Link Here"
+msgstr ""
+
+#: inc/social-options.php:113
+msgid "Paste Linkedin Link Here"
+msgstr ""
+
+#: inc/social-options.php:129
+msgid "Paste Youtube Link Here"
+msgstr ""
+
+#: inc/social-options.php:145
+msgid "Paste Whatsapp Link Here"
+msgstr ""
+
+#: inc/social-options.php:161
+msgid "Paste Skype Link Here"
+msgstr ""
+
+#: inc/social-options.php:177
+msgid "Paste We Chat  Link Here"
+msgstr ""
+
+#. translators: %s: post date.
+#: inc/template-tags.php:29
+#, php-format
+msgctxt "post date"
+msgid "On %s"
+msgstr ""
+
+#. translators: %s: post author.
+#: inc/template-tags.php:46
+#, php-format
+msgctxt "post author"
+msgid "Posted by %s"
+msgstr ""
+
+#. translators: used between list items, there is a space after the comma
+#: inc/template-tags.php:63
+msgid ", "
+msgstr ""
+
+#. translators: 1: list of categories.
+#: inc/template-tags.php:67
+#, php-format
+msgid "Posted in %1$s"
+msgstr ""
+
+#. translators: used between list items, there is a space after the comma
+#: inc/template-tags.php:71
+msgctxt "list item separator"
+msgid ", "
+msgstr ""
+
+#. translators: 1: list of tags.
+#: inc/template-tags.php:74
+#, php-format
+msgid "Tagged %1$s"
+msgstr ""
+
+#. translators: %s: post title
+#: inc/template-tags.php:95
+#, php-format
+msgid "Leave a Comment<span class=\"screen-reader-text\"> on %s</span>"
+msgstr ""
+
+#. translators: %s: Name of current post. Only visible to screen readers
+#: inc/template-tags.php:112
+#, php-format
+msgid "Edit <span class=\"screen-reader-text\">%s</span>"
+msgstr ""
+
+#: inc/third-party/breadcrumb-trail.php:244
+msgid "Browse:"
+msgstr ""
+
+#: inc/third-party/breadcrumb-trail.php:245
+msgctxt "breadcrumbs aria label"
+msgid "Breadcrumbs"
+msgstr ""
+
+#: inc/third-party/breadcrumb-trail.php:246
+msgid "Home"
+msgstr ""
+
+#: inc/third-party/breadcrumb-trail.php:247
+msgid "404 Not Found"
+msgstr ""
+
+#: inc/third-party/breadcrumb-trail.php:248
+msgid "Archives"
+msgstr ""
+
+#: inc/third-party/breadcrumb-trail.php:250
+#, php-format
+msgid "Search results for &#8220;%s&#8221;"
+msgstr ""
+
+#: inc/third-party/breadcrumb-trail.php:252
+#, php-format
+msgid "Page %s"
+msgstr ""
+
+#: inc/third-party/breadcrumb-trail.php:254
+#, php-format
+msgid "Minute %s"
+msgstr ""
+
+#: inc/third-party/breadcrumb-trail.php:256
+#, php-format
+msgid "Week %s"
+msgstr ""
+
+#: inc/third-party/breadcrumb-trail.php:708
+msgctxt "minute and hour archives time format"
+msgid "g:i a"
+msgstr ""
+
+#: inc/third-party/breadcrumb-trail.php:725
+msgctxt "minute archives time format"
+msgid "i"
+msgstr ""
+
+#: inc/third-party/breadcrumb-trail.php:742
+msgctxt "hour archives time format"
+msgid "g a"
+msgstr ""
+
+#: inc/third-party/breadcrumb-trail.php:758
+#: inc/third-party/breadcrumb-trail.php:787
+#: inc/third-party/breadcrumb-trail.php:814
+#: inc/third-party/breadcrumb-trail.php:841
+#: inc/third-party/breadcrumb-trail.php:1182
+msgctxt "yearly archives date format"
+msgid "Y"
+msgstr ""
+
+#: inc/third-party/breadcrumb-trail.php:759
+#: inc/third-party/breadcrumb-trail.php:815
+#: inc/third-party/breadcrumb-trail.php:1186
+msgctxt "monthly archives date format"
+msgid "F"
+msgstr ""
+
+#: inc/third-party/breadcrumb-trail.php:760
+#: inc/third-party/breadcrumb-trail.php:1190
+msgctxt "daily archives date format"
+msgid "j"
+msgstr ""
+
+#: inc/third-party/breadcrumb-trail.php:788
+msgctxt "weekly archives date format"
+msgid "W"
+msgstr ""
+
+#: inc/third-party/wp_bootstrap_navwalker.php:323
+msgid "Add a menu"
+msgstr ""
+
+#: inc/widgets/sidebar-widgets.php:21
+msgid "Displays Author Information. Place it in sidebar."
+msgstr ""
+
+#: inc/widgets/sidebar-widgets.php:24
+msgid "Gridzine: Author Info"
+msgstr ""
+
+#: inc/widgets/sidebar-widgets.php:85 inc/widgets/sidebar-widgets.php:197
+#: inc/widgets/slider-1.php:110 inc/widgets/slider-3.php:104
+#: inc/widgets/slider-5.php:104
+msgid "Title: "
+msgstr ""
+
+#: inc/widgets/sidebar-widgets.php:92
+msgid "Page:"
+msgstr ""
+
+#: inc/widgets/sidebar-widgets.php:100
+msgid "&mdash; Select &mdash;"
+msgstr ""
+
+#: inc/widgets/sidebar-widgets.php:128
+msgid "Recent Post Widget for Sidebar"
+msgstr ""
+
+#: inc/widgets/sidebar-widgets.php:131
+msgid "Gridzine: Recent Posts"
+msgstr ""
+
+#: inc/widgets/sidebar-widgets.php:201 inc/widgets/slider-1.php:114
+#: inc/widgets/slider-3.php:108 inc/widgets/slider-5.php:108
+msgid "Select Category: "
+msgstr ""
+
+#: inc/widgets/sidebar-widgets.php:211 inc/widgets/slider-1.php:124
+#: inc/widgets/slider-3.php:118 inc/widgets/slider-5.php:118
+msgid "Show Recent Posts"
+msgstr ""
+
+#: inc/widgets/sidebar-widgets.php:217 inc/widgets/slider-1.php:130
+#: inc/widgets/slider-3.php:124 inc/widgets/slider-5.php:124
+msgid "Post No: "
+msgstr ""
+
+#: inc/widgets/slider-1.php:22
+msgid "Full Width Slider for Top Area"
+msgstr ""
+
+#: inc/widgets/slider-1.php:25
+msgid "Gridzine: Slider Widget"
+msgstr ""
+
+#: inc/widgets/slider-1.php:74 template-parts/content.php:25
+msgid "Read More"
+msgstr ""
+
+#: inc/widgets/slider-3.php:22 inc/widgets/slider-5.php:22
+msgid "Displays Slider in Top and Bottom Area\""
+msgstr ""
+
+#: inc/widgets/slider-3.php:25
+msgid "Gridzine: 3 Column Slider Widget "
+msgstr ""
+
+#: inc/widgets/slider-5.php:25
+msgid "Gridzine: 3 Column Slider Widget Title at Bottom "
+msgstr ""
+
+#: inc/woocommerce.php:227
+msgid "View your shopping cart"
+msgstr ""
+
+#. translators: number of items in the mini cart.
+#: inc/woocommerce.php:229
+#, php-format
+msgid "%d item"
+msgid_plural "%d items"
+msgstr[0] ""
+msgstr[1] ""
+
+#. translators: %s: search query.
+#: search.php:21
+#, php-format
+msgid "Search Results for: %s"
+msgstr ""
+
+#: searchform.php:3
+msgid "Search for:"
+msgstr ""
+
+#: template-parts/content-none.php:16
+msgid "Nothing Found"
+msgstr ""
+
+#. translators: 1: link to WP admin new post page.
+#: template-parts/content-none.php:25
+#, php-format
+msgid ""
+"Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+msgstr ""
+
+#: template-parts/content-none.php:38
+msgid ""
+"Sorry, but nothing matched your search terms. Please try again with some "
+"different keywords."
+msgstr ""
+
+#: template-parts/content-none.php:44
+msgid ""
+"It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps "
+"searching can help."
+msgstr ""
+
+#: template-parts/content-page.php:23 template-parts/content-single.php:39
+msgid "Pages:"
+msgstr ""
+
+#. translators: %s: Name of current post. Only visible to screen readers
+#: template-parts/content-single.php:28
+#, php-format
+msgid "Continue reading<span class=\"screen-reader-text\"> \"%s\"</span>"
+msgstr ""
+
+#. Theme Name of the plugin/theme
+msgid "Gridzine"
+msgstr ""
+
+#. Theme URI of the plugin/theme
+msgid "https://scorpionthemes.com/downloads/gridzine-plus-wordpress-theme/"
+msgstr ""
+
+#. Description of the plugin/theme
+msgid ""
+"Gridzine Comes with 5 Header Layout & 4 Footer Layout Can be Change and "
+"Customize from Customizer to get your desire result, It has 3 different "
+"slider widget , clean design  for blog"
+msgstr ""
+
+#. Author of the plugin/theme
+msgid "scorpionthemes"
+msgstr ""
+
+#. Author URI of the plugin/theme
+msgid "http://scorpionthemes.com"
+msgstr ""

@@ -1,0 +1,219 @@
+/* =====================================
+Theme Name: Gridzine
+Description: Just another blog theme
+Version: 1.0
+========================================*/   
+/*============================
+ Reset CSS
+===============================*/ 
+* {
+    margin: 0;
+    padding: 0;
+}
+.container{
+	max-width:1170px;
+}
+html,body {
+	height: 100%;
+	margin: 0;
+}
+body {
+    font-family: 'Roboto', sans-serif;
+    font-weight: 400;
+    font-size: 14px;
+    color: #454545;
+	line-height:24px;
+	position:relative;
+}
+h1,h2,h3,h4,h5,h6{
+	font-weight:700;
+	color: #454545;
+	margin:0;
+}
+a{
+	cursor:pointer;
+}
+p {
+	color:#555;
+    margin: 0;
+}
+ul {
+    list-style: none;
+    margin-bottom: 0;
+}
+a,button,i,input{
+	-webkit-transition: all 0.4s ease;
+	-moz-transition: all 0.4s ease;
+	transition: all 0.4s ease;
+}
+a,
+a:hover,
+a:focus,
+a:active,
+button{
+    text-decoration: none;
+    border: none;
+    outline: none;
+	border:none;
+}
+
+img {
+    max-width: 100%;
+	display:block;
+}
+select:focus,
+select:active {
+    box-shadow: 0;
+    border: 0;
+    outline: 0
+}
+.nav > li > a:focus,
+.nav > li > a:hover {
+    background-color: transparent;
+    text-decoration: none;
+}
+.navbar {
+    margin-bottom: 0;
+    border: 0;
+}
+.btn {
+	font-size: 14px;
+	color: #fff;
+	padding: 10px 45px;
+	border-radius:0px;
+	font-weight:500;
+	text-transform: uppercase;
+	font-weight: 400;
+	border-radius:3px;
+	border: none;
+	display: inline-block;
+	text-align: center;
+	-webkit-transition: all 0.4s ease;
+	-moz-transition: all 0.4s ease;
+	transition: all 0.4s ease;
+}
+.btn.primary{
+	background:#03A9F4;
+}
+.btn.primary:hover{
+	background:#000;
+	color:#fff;
+}
+img{
+	-webkit-transition:all 0.4s ease;
+	-moz-transition:all 0.4s ease;
+	transition:all 0.4s ease;
+}
+input,
+input:focus,
+input:active {
+    outline: none;
+    font-weight: 400;
+}
+select{
+    -webkit-appearance: none;
+   -moz-appearance:    none;
+   appearance:         none;
+}
+textarea:focus {
+    outline: none !important;
+    box-shadow: none !important
+}
+/* Remove Chrome Input Field's Unwanted Yellow Background Color */
+input:-webkit-autofill,
+input:-webkit-autofill:hover,
+input:-webkit-autofill:focus {
+    -webkit-box-shadow: 0 0 0px 1000px white inset !important;
+}
+/*Remove bootstrap tab css*/
+.nav-tabs > li > a {
+    border: 0
+}
+.nav-tabs > li.active > a,
+.nav-tabs > li.active > a:focus,
+.nav-tabs > li.active > a:hover {
+    border: 0;
+    outline: 0
+}
+
+.nav-tabs {
+    border: 0
+}
+.nav-tabs > li > a:hover {
+    border: 0
+}
+/*navbar css icon*/
+.navbar-toggle .icon-bar {
+    position: relative;
+    -webkit-transition: all 500ms ease-in-out;
+    transition: all 500ms ease-in-out;
+    width: 28px;
+}
+.slick-slide {
+    outline: none !important;
+}
+/*Bread crumbs*/
+.breadcrumbs {
+	text-align: center;
+	padding: 10px 0;
+	background: #03A9F4;
+}
+.breadcrumbs .bread-inner {
+	margin-top: 45px;
+}
+.breadcrumbs h2 {
+	color: #fff;
+	font-size: 40px;
+	padding-bottom: 15px;
+	position: relative;
+}
+.breadcrumbs ul li{
+	display:inline-block;
+}
+.breadcrumbs ul li a {
+	color: #fff;
+	font-size: 18px;
+	text-transform: capitalize;
+	font-weight: 400;
+	display: ;
+}
+.breadcrumbs li + li::before {
+	font-family: FontAwesome;
+	color:#fff;
+	content: "\f105";
+	padding: 0 3px;
+}
+.form-control:focus {
+	border-color: #ccc;
+	box-shadow: 0 0 0 ;
+	outline: 0 none;
+}
+.slicknav_menu{
+	display:none;
+}
+#scrollUp {
+	right: 20px;
+	bottom: 12px;
+	font-size: 30px;
+	opacity: 1;
+	color: #333;
+}
+#scrollUp:hover {
+	opacity:1;
+}
+
+div#preloader {
+    position: fixed;
+	top: 0;
+	left: 0;
+	bottom: 0;
+	right: 0;
+    width: 100%;
+    height: 100%;
+	z-index:1200;
+    background-image: url('../img/preloader.gif');
+    background-repeat: no-repeat;
+    background-position: center center;
+    background-color: #2F2E33;
+	overflow:hidden;
+}

@@ -1,0 +1,189 @@
+@media only screen and (min-width: 768px) and (max-width: 991px) {
+.slicknav_menu{
+	display:none;
+}
+.site-header .topbar{
+	text-align:center;
+}
+.site-header .top-right {
+	float: none;
+	text-align: center;
+	display: inline-block;
+	margin-top: 10px;
+}
+.big-slider .inner-text {
+	margin: 0 70px;
+}
+.main-area .sidebar{
+	margin-top:50px;
+}
+.site-header.style2 .topbar .social {
+	float: left;
+}
+.site-header.style2 .top-right {
+	margin: 0;
+	float: right;
+}
+.site-header.style3 .top-right {
+	margin-top:0px;
+}
+.footer.style2 .single-widget {
+	margin-top: 30px;
+	text-align: center;
+}
+.footer.style2 .social {
+	float: none;
+}
+.footer.style3 .single-widget {
+	margin-top: 30px;
+	text-align: center;
+}
+.footer.style3 .footer-nav {
+	text-align: center;
+}
+.footer.style3 .social {
+	float: none;
+}
+}
+
+@media only screen and (max-width: 767px) {
+.slicknav_menu {
+	display: block;
+	background: transparent;
+	margin-top: -36px;
+}
+.slicknav_btn {
+	border-radius: 0px;
+	position: relative;
+	left: 20px;
+	top: -30px;
+}
+.site-header.style2 .slicknav_btn {
+	left: 5px;
+	top: -4px;
+}
+.site-header.style3 .slicknav_btn {
+	left: 5px;
+	top: -4px;
+}
+.site-header.style4 .slicknav_btn {
+	left: 5px;
+	top: -4px;
+}
+.site-header.style5 .slicknav_btn {
+	left: 5px;
+	top: -4px;
+}
+.site-header .middle-header {
+	padding: 15px;
+}
+.slicknav_nav{
+	background: #03A9F4;
+}
+.breadcrumbs h2 {
+	font-size: 28px;
+}
+.top-nav,.main-menu,.site-header.style5 .bars{
+	display:none;
+} 
+.site-header .topbar{
+	text-align:center;
+}
+.site-header .top-right {
+	float: none;
+	text-align: center;
+	display: inline-block;
+}
+.big-slider .inner-text {
+	margin: 0 70px;
+}
+.site-header .social {
+	float: none;
+	margin-right: 0px;
+	padding-right: 0px;
+	border:none;
+}
+.site-header .logo h2 {
+	font-size: 30px;
+	margin: 0;
+}
+.site-header .logo h2 a {
+	letter-spacing:3px;
+}
+.site-header .search-form {
+	float: none;
+	margin-top: 12px;
+}
+.main-area .sidebar{
+	margin-top:50px;
+}
+.site-header.style2 .topbar .social {
+	float: none;
+}
+.site-header.style2 .top-right {
+	margin: 0;
+	float: none;
+}
+.site-header.style3 .top-right {
+	margin-top: 0px;
+	float: none;
+}
+.site-header.style3 .topbar .social {
+	float: none;
+}
+
+.big-slider .single-slider,
+.big-slider .welcome-text{
+	background-size: cover;
+	background-position: center;
+	background-repeat: no-repeat;
+	height: 400px;
+}
+.big-slider .inner-text {
+	margin: 0;
+}
+.big-slider .welcome-text h2 {
+	font-size: 20px;
+	text-transform: initial;
+	margin: 15px 0;
+}
+.main-area.single .single-comments .head {
+	width: 20%;
+}
+.main-area.single .single-comments .head img {
+	width: 50px;
+	height: 50px;
+	line-height: 50px;
+}
+.footer .footer-bottom .social {
+	float: none;
+	text-align:center;
+}
+.footer.style2 .single-widget {
+	margin-top: 30px;
+	text-align: center;
+}
+.footer.style2 .social {
+	float: none;
+}
+.footer.style3 .single-widget {
+	margin-top: 30px;
+	text-align: center;
+}
+.footer.style3 .footer-nav {
+	text-align: center;
+}
+.footer.style3 .social {
+	float: none;
+}
+.footer.style4 .single-widget {
+	margin-top: 30px;
+	text-align: center;
+}
+.footer.style4 .social li a {
+	width: 35px;
+	height: 35px;
+	line-height: 35px;
+	border-radius: 100%;
+}
+}
